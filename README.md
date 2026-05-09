@@ -19,4 +19,4 @@ Dashboard desenvolvido no curso da Alura para análise de faturamento de uma red
 - DAX
 
 ## 📸 Preview
-![Dashboard Preview](link_da_imagem_aqui)
+![Dashboard Preview](<img width="1667" height="836" alt="projeto-gatito" src="https://github.com/user-attachments/assets/2a1d382f-e4be-42ff-9563-e521416b940f" />)
